@@ -2,10 +2,6 @@
 	path = themes/hugoplate
 	url = https://github.com/Lee-Siny/hugoplate.git
 	branch = main
-[submodule "content"]
-	path = content
-	url = https://github.com/Lee-Siny/BlogContents.git
-	branch = main
 [submodule "public"]
 	path = public
 	url = https://github.com/Lee-Siny/Lee-Siny.github.io.git
