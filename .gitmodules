@@ -6,3 +6,7 @@
 	path = public
 	url = https://github.com/Lee-Siny/Lee-Siny.github.io.git
 	branch = main
+[submodule "content"]
+	path = content
+	url = https://github.com/Lee-Siny/blog-contents.git
+	branch = main
